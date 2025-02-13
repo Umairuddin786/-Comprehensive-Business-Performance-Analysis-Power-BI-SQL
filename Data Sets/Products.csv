@@ -1,0 +1,501 @@
+product_id,category,subcategory,product_name,unit_price,manufacturer,stock_quantity,launch_date,product_rating
+PROD000001,Home Appliances,Action Figures,Marvel Iron Man,390,Ramirez-Vasquez,921,25-07-2024,4.1
+PROD000002,Clothing,Men,Levi's Jeans,40,Clark Group,803,21-05-2021,1.5
+PROD000003,Toys,Women,H&M Dress,960,Nelson-Nelson,255,13-07-2023,3.1
+PROD000004,Electronics,Laundry,Samsung Dryer,960,"Gamble, Washington and Horton",936,10-06-2024,4.8
+PROD000005,Toys,Board Games,Scrabble,874,"Henderson, Young and Sullivan",420,01-06-2024,2.4
+PROD000006,Electronics,Kitchen,Instant Pot,822,Mcdonald Group,227,01-05-2021,2.2
+PROD000007,Home Appliances,Men,Under Armour Jacket,327,"Morris, Hill and Holland",436,02-01-2021,3.4
+PROD000008,Clothing,Smartphones,Google Pixel 7,65,"Stevens, Guerrero and Moore",24,18-09-2023,1.9
+PROD000009,Home Appliances,Laundry,Samsung Dryer,213,"Delgado, Pratt and Dillon",777,21-05-2023,3.2
+PROD000010,Toys,Fiction,The Catcher in the Rye,76,Jackson PLC,835,24-04-2024,1.6
+PROD000011,Books,Dolls,Disney Princess Doll,573,"Phillips, Velez and Cunningham",698,11-10-2021,3.3
+PROD000012,Books,Non-Fiction,The Immortal Life of Henrietta Lacks,476,Williams-Delacruz,344,02-04-2022,3.4
+PROD000013,Home Appliances,Laptops,HP Spectre x360,352,"Nguyen, Wright and Gonzalez",736,26-10-2022,2.7
+PROD000014,Toys,Kitchen,OXO Knife Set,766,"Jimenez, Green and Robinson",546,14-08-2023,2.5
+PROD000015,Books,Headphones,Bose QC35 II,885,Jimenez Inc,501,22-11-2023,2
+PROD000016,Toys,Board Games,Scrabble,35,Chapman-Graham,845,09-02-2021,2.3
+PROD000017,Toys,Fiction,The Catcher in the Rye,664,"Ortiz, Potter and Harris",301,18-12-2021,3
+PROD000018,Electronics,Laptops,Lenovo ThinkPad X1,532,Barker PLC,126,06-11-2022,2
+PROD000019,Home Appliances,Kitchen,Cuisinart Blender,763,"Ross, Gray and Stewart",601,01-01-2021,4.1
+PROD000020,Home Appliances,Cleaning,Dyson Vacuum,169,"Alexander, Ross and Arellano",696,19-11-2023,3.8
+PROD000021,Clothing,Non-Fiction,Educated,835,Ochoa-Turner,753,03-03-2023,2.1
+PROD000022,Books,Headphones,Bose QC35 II,653,Hester-Coleman,836,20-04-2020,1.4
+PROD000023,Books,Laundry,Samsung Dryer,813,Gallagher PLC,478,26-12-2021,1
+PROD000024,Books,Dolls,Disney Princess Doll,821,"Harper, Johnson and Brennan",957,17-01-2024,3.4
+PROD000025,Home Appliances,Women,Zara Top,901,"Russell, Cruz and Hill",561,30-07-2023,1.8
+PROD000026,Home Appliances,Laundry,Samsung Dryer,845,"Martinez, Campos and Petersen",692,19-05-2022,1.1
+PROD000027,Books,Education,Introduction to Programming,232,Smith-Hood,638,05-08-2024,2.4
+PROD000028,Electronics,Laptops,HP Spectre x360,410,"Smith, Collier and Diaz",705,13-06-2024,4.8
+PROD000029,Clothing,Headphones,Sony WH-1000XM4,300,Stephens LLC,602,07-09-2022,3.8
+PROD000030,Clothing,Women,H&M Dress,972,"Baxter, Cross and Smith",396,23-11-2020,4.4
+PROD000031,Electronics,Smartphones,iPhone 14,671,Herrera-Fitzgerald,592,25-12-2020,1.6
+PROD000032,Clothing,Kitchen,KitchenAid Mixer,690,Alexander-Pope,661,16-03-2022,1.3
+PROD000033,Toys,Education,Biology Basics,558,Miller and Sons,202,26-02-2021,1
+PROD000034,Books,Dolls,American Girl Doll,361,Castillo LLC,692,04-05-2024,4.8
+PROD000035,Electronics,Fiction,Pride and Prejudice,693,"Anderson, West and Reese",110,06-07-2023,2.2
+PROD000036,Electronics,Fiction,To Kill a Mockingbird,649,"Roman, Reed and Ferguson",79,19-12-2020,2.8
+PROD000037,Toys,Board Games,Monopoly,356,Jackson-Wells,183,10-01-2022,2.6
+PROD000038,Books,Kitchen,Instant Pot,94,"Robertson, Clark and Burton",453,24-04-2021,3.9
+PROD000039,Books,Kids,Old Navy Pants,112,"Wolfe, Nguyen and Wallace",710,17-06-2022,2.2
+PROD000040,Clothing,Action Figures,Marvel Iron Man,565,"Gregory, Brown and Hutchinson",442,11-12-2021,3.1
+PROD000041,Toys,Kids,Old Navy Pants,134,Ramirez PLC,224,15-08-2020,5
+PROD000042,Electronics,Women,H&M Dress,440,Nelson-Butler,546,23-11-2020,2.8
+PROD000043,Electronics,Dolls,Disney Princess Doll,973,Morgan-Williams,610,01-04-2023,3.2
+PROD000044,Toys,Dolls,Barbie Doll,132,Quinn-Brooks,652,23-09-2020,3
+PROD000045,Books,Cameras,Nikon Z7 II,387,Simmons and Sons,717,29-01-2021,4.2
+PROD000046,Clothing,Laptops,Dell XPS 13,79,Johnson-Burns,328,18-04-2022,2.1
+PROD000047,Home Appliances,Board Games,Catan,301,"Beltran, Bishop and Campos",295,03-07-2022,1.7
+PROD000048,Electronics,Cameras,Canon EOS R5,256,"Marks, Conway and Joseph",234,08-03-2024,4
+PROD000049,Toys,Kitchen,KitchenAid Mixer,657,"Kennedy, Bradshaw and Lopez",358,30-05-2022,2.7
+PROD000050,Books,Dolls,American Girl Doll,960,"Douglas, Holloway and Thompson",397,06-08-2023,4.7
+PROD000051,Clothing,Board Games,Chess Set,64,"Rivera, Huynh and Reyes",855,26-08-2024,3.6
+PROD000052,Clothing,Action Figures,Marvel Iron Man,819,Thompson Ltd,350,07-09-2020,3.3
+PROD000053,Home Appliances,Dolls,Barbie Doll,760,Blair-Boyer,848,01-11-2020,1.3
+PROD000054,Books,Women,Chanel Handbag,216,"Bell, Dennis and Bryant",670,11-09-2021,3.9
+PROD000055,Books,Education,Physics for Engineers,743,Dennis-Smith,513,21-01-2022,3.7
+PROD000056,Electronics,Women,H&M Dress,518,Jackson Inc,80,27-10-2020,3.6
+PROD000057,Electronics,Smartphones,Google Pixel 7,602,Howard Group,138,01-07-2022,2.1
+PROD000058,Electronics,Kids,Carter's Jacket,766,Lin-Woods,453,15-04-2022,4.8
+PROD000059,Home Appliances,Laundry,Whirlpool Iron,810,"Holland, Contreras and Cameron",299,16-01-2021,2.3
+PROD000060,Home Appliances,Board Games,Chess Set,468,Fletcher-Gomez,608,09-04-2020,1.6
+PROD000061,Electronics,Laptops,Lenovo ThinkPad X1,698,Stephens PLC,396,06-06-2023,4.9
+PROD000062,Books,Laundry,Bosch Laundry Basket,214,Gonzalez-Lewis,27,17-07-2021,4
+PROD000063,Toys,Women,Uniqlo Skirt,704,"Copeland, Jones and Ortega",564,20-04-2023,2.7
+PROD000064,Toys,Action Figures,Transformers Optimus Prime,214,Contreras-Bailey,85,04-10-2020,4.7
+PROD000065,Home Appliances,Non-Fiction,The Immortal Life of Henrietta Lacks,594,Graham-Valdez,855,31-12-2021,1.4
+PROD000066,Electronics,Headphones,Beats Studio3,601,Kennedy-Castillo,562,02-08-2022,1.4
+PROD000067,Books,Kids,Gap Kids Sweater,754,Bennett-Smith,997,15-01-2020,3.7
+PROD000068,Toys,Fiction,The Great Gatsby,329,"Pineda, Bates and Bell",883,10-06-2024,1.7
+PROD000069,Toys,Men,Puma Shorts,814,"Garcia, Smith and Lewis",374,20-03-2022,4.7
+PROD000070,Clothing,Kids,Old Navy Pants,880,"English, Blackwell and Sanchez",289,26-06-2021,4.4
+PROD000071,Toys,Dolls,LOL Surprise Doll,610,Cox-Nelson,289,27-01-2023,2.2
+PROD000072,Electronics,Women,Gucci Scarf,567,"James, Lester and Escobar",780,08-03-2023,4.6
+PROD000073,Books,Women,Zara Top,408,Andrews-Young,452,02-05-2022,1.2
+PROD000074,Books,Non-Fiction,Educated,726,"Allen, Young and Mccormick",963,10-02-2024,3.2
+PROD000075,Home Appliances,Kitchen,KitchenAid Mixer,454,"Huff, Gallagher and Wilcox",338,07-08-2024,4.7
+PROD000076,Clothing,Headphones,Beats Studio3,748,Frederick Inc,545,05-10-2023,4.4
+PROD000077,Home Appliances,Laundry,Bosch Laundry Basket,819,Johnson and Sons,517,15-09-2020,2.4
+PROD000078,Toys,Education,Introduction to Programming,680,Torres-Bryant,459,27-08-2023,1.7
+PROD000079,Home Appliances,Education,Physics for Engineers,515,"Martin, Garrett and Byrd",384,21-01-2023,1.8
+PROD000080,Home Appliances,Fiction,To Kill a Mockingbird,804,Thomas-Garcia,305,24-02-2021,3.1
+PROD000081,Toys,Kids,Nike Sneakers,220,Perez-Ellis,485,09-01-2021,3.4
+PROD000082,Books,Men,Puma Shorts,685,"Ashley, Jones and Castillo",848,28-04-2024,1.1
+PROD000083,Home Appliances,Men,Nike T-Shirt,553,Owen and Sons,402,02-07-2020,2.7
+PROD000084,Electronics,Fiction,Pride and Prejudice,316,Morales-Smith,118,17-10-2023,4.3
+PROD000085,Toys,Men,Puma Shorts,513,Robertson and Sons,368,06-07-2023,2.8
+PROD000086,Home Appliances,Cameras,Nikon Z7 II,846,"Zamora, Collins and Jones",965,12-10-2021,1.7
+PROD000087,Books,Women,Gucci Scarf,746,Fritz Ltd,944,20-12-2020,4.8
+PROD000088,Toys,Kitchen,KitchenAid Mixer,350,"Gaines, Poole and Boyd",298,10-01-2020,2.1
+PROD000089,Home Appliances,Board Games,Ticket to Ride,653,Carey Ltd,427,18-05-2023,4.2
+PROD000090,Toys,Dolls,American Girl Doll,797,Williams PLC,327,16-12-2020,1.8
+PROD000091,Home Appliances,Headphones,Beats Studio3,874,Banks PLC,350,21-11-2023,2.7
+PROD000092,Clothing,Kids,Gap Kids Sweater,280,Tran LLC,326,11-10-2023,3
+PROD000093,Clothing,Cleaning,Shark Steam Cleaner,74,Bartlett-Nichols,358,15-09-2023,3
+PROD000094,Electronics,Cameras,Fujifilm X-T4,301,Barnett-Allen,36,11-04-2021,3.1
+PROD000095,Books,Laptops,Lenovo ThinkPad X1,791,"Craig, Brandt and Nelson",647,11-07-2022,1.9
+PROD000096,Electronics,Men,Adidas Hoodie,894,Cook-Perez,410,09-04-2021,3.1
+PROD000097,Books,Non-Fiction,Sapiens,814,"Gonzalez, Hawkins and Henderson",325,04-05-2023,2.9
+PROD000098,Clothing,Cameras,Fujifilm X-T4,761,Hernandez-Nguyen,691,02-02-2022,1.8
+PROD000099,Electronics,Kids,Gap Kids Sweater,657,Casey-Hill,568,11-09-2021,5
+PROD000100,Toys,Education,Biology Basics,461,"Norris, Cain and Richardson",377,15-11-2023,4.5
+PROD000101,Clothing,Board Games,Monopoly,278,Alvarado and Sons,352,07-12-2024,4.6
+PROD000102,Electronics,Action Figures,Marvel Iron Man,581,Hanna-Mann,702,17-03-2021,3.7
+PROD000103,Clothing,Laptops,Asus ZenBook 14,755,Johnson Ltd,374,01-11-2020,1.6
+PROD000104,Home Appliances,Men,Puma Shorts,912,"Ritter, Clark and Duran",926,15-03-2021,3.3
+PROD000105,Clothing,Women,Uniqlo Skirt,813,Evans Inc,913,08-08-2024,4.3
+PROD000106,Electronics,Non-Fiction,Sapiens,165,Medina-Cook,82,15-07-2023,1.2
+PROD000107,Toys,Women,Gucci Scarf,410,"Smith, Sanchez and Hendrix",131,29-11-2022,3
+PROD000108,Toys,Women,Chanel Handbag,392,Brooks Group,874,12-01-2022,2.6
+PROD000109,Home Appliances,Cameras,Panasonic Lumix GH5,64,Jones-Vazquez,195,12-02-2020,1.8
+PROD000110,Clothing,Kitchen,Instant Pot,416,Barnes-Martin,845,09-03-2020,2.5
+PROD000111,Toys,Women,Uniqlo Skirt,281,Gallegos Inc,328,04-09-2022,4.9
+PROD000112,Books,Women,H&M Dress,950,Stevenson and Sons,964,14-08-2020,3.9
+PROD000113,Toys,Non-Fiction,Sapiens,498,Castillo-Caldwell,603,06-05-2024,2.2
+PROD000114,Books,Kids,Old Navy Pants,765,Brewer-Fleming,551,21-01-2020,3.4
+PROD000115,Toys,Kids,Adidas Cap,584,Chan and Sons,802,30-07-2020,2
+PROD000116,Clothing,Men,Adidas Hoodie,504,Benjamin PLC,642,16-11-2024,3.4
+PROD000117,Toys,Women,H&M Dress,766,Rivera and Sons,362,18-10-2022,4.6
+PROD000118,Books,Women,Chanel Handbag,727,"Townsend, Copeland and Montgomery",364,04-08-2024,3.2
+PROD000119,Toys,Cleaning,iRobot Roomba,957,"Berry, Jordan and Webster",115,29-02-2024,3.9
+PROD000120,Electronics,Non-Fiction,Born a Crime,535,"Webb, Roy and Peterson",833,23-03-2020,2.8
+PROD000121,Electronics,Men,Nike T-Shirt,591,Morrison-Foley,427,02-11-2024,3.1
+PROD000122,Electronics,Women,H&M Dress,704,"Farmer, Callahan and Reynolds",955,31-05-2021,3.8
+PROD000123,Electronics,Cameras,Sony A7 IV,603,Matthews Ltd,651,10-09-2023,4.2
+PROD000124,Electronics,Cleaning,iRobot Roomba,505,Adams Group,214,28-12-2023,3.6
+PROD000125,Electronics,Women,Uniqlo Skirt,606,Castaneda and Sons,574,12-12-2019,4.9
+PROD000126,Books,Laundry,LG Washing Machine,853,"West, Massey and Harrison",391,06-11-2024,4.3
+PROD000127,Toys,Action Figures,Transformers Optimus Prime,485,Powers Ltd,306,16-05-2020,4.1
+PROD000128,Electronics,Dolls,Barbie Doll,485,Davis-Baker,288,23-12-2020,4.4
+PROD000129,Toys,Kitchen,Cuisinart Blender,41,"Mullen, Gutierrez and Armstrong",198,21-06-2023,2.1
+PROD000130,Books,Cleaning,Black+Decker Dustbuster,415,"Davis, Mcdowell and Stokes",736,04-03-2024,2.7
+PROD000131,Home Appliances,Education,Chemistry Essentials,228,Thomas Ltd,552,20-07-2024,3.3
+PROD000132,Toys,Non-Fiction,Born a Crime,582,"Weaver, Wilcox and Collier",459,20-03-2023,2.8
+PROD000133,Clothing,Kitchen,Le Creuset Dutch Oven,164,Dawson-Howard,267,07-01-2024,4.4
+PROD000134,Home Appliances,Dolls,American Girl Doll,439,Barnes-Norris,462,14-03-2021,1.1
+PROD000135,Books,Men,Under Armour Jacket,368,Mitchell-Rodriguez,581,07-08-2020,1.8
+PROD000136,Toys,Kids,Carter's Jacket,324,"Pena, Davis and Snyder",87,09-07-2022,4.5
+PROD000137,Clothing,Non-Fiction,Sapiens,803,Warner-Jones,32,23-12-2021,1.2
+PROD000138,Books,Non-Fiction,Born a Crime,990,Stone Group,512,07-06-2024,1.9
+PROD000139,Books,Board Games,Chess Set,63,"Shaw, Odonnell and Clark",194,08-10-2021,2.4
+PROD000140,Books,Men,Puma Shorts,126,Dillon Inc,556,16-04-2022,4
+PROD000141,Home Appliances,Men,Adidas Hoodie,169,Schaefer Group,522,20-12-2019,3.2
+PROD000142,Toys,Women,Zara Top,625,Richardson-Dalton,626,23-07-2024,4.8
+PROD000143,Electronics,Dolls,Barbie Doll,283,Harris-Payne,697,25-10-2023,1.9
+PROD000144,Books,Men,Puma Shorts,129,"Phillips, Lawrence and Ballard",58,01-07-2022,4.5
+PROD000145,Home Appliances,Women,Chanel Handbag,37,Woods-Hurst,177,29-09-2020,2.1
+PROD000146,Toys,Kitchen,Le Creuset Dutch Oven,769,Olson-Cooper,839,02-08-2022,2
+PROD000147,Toys,Cleaning,Dyson Vacuum,355,Lee Inc,792,13-02-2022,3
+PROD000148,Books,Education,Algebra Textbook,258,Ferguson-Moore,679,29-02-2024,1.3
+PROD000149,Books,Headphones,Bose QC35 II,905,Smith Inc,30,26-09-2024,2.5
+PROD000150,Home Appliances,Dolls,Disney Princess Doll,743,Green Inc,401,18-04-2023,2.4
+PROD000151,Clothing,Fiction,The Catcher in the Rye,762,Ramirez-Miller,912,25-06-2020,1.6
+PROD000152,Toys,Education,Introduction to Programming,347,"Kennedy, Mitchell and Clark",114,16-09-2021,4.4
+PROD000153,Electronics,Women,Chanel Handbag,881,Garner-Johnson,299,18-09-2020,2.5
+PROD000154,Books,Headphones,Apple AirPods Max,313,Patton-Henderson,642,20-04-2022,4.9
+PROD000155,Books,Fiction,The Catcher in the Rye,432,Houston-Becker,713,22-10-2021,4.6
+PROD000156,Clothing,Cameras,Panasonic Lumix GH5,480,Brown-Foster,435,09-09-2023,1.8
+PROD000157,Home Appliances,Kitchen,Cuisinart Blender,100,Johnson-Williams,238,22-02-2022,3
+PROD000158,Books,Kids,Gap Kids Sweater,274,Pham Group,190,04-05-2020,3.4
+PROD000159,Clothing,Laptops,Asus ZenBook 14,763,"Stephens, Rose and Robinson",361,03-10-2024,4.3
+PROD000160,Books,Non-Fiction,Educated,382,"Kelly, Morris and Hoover",234,23-12-2019,4.5
+PROD000161,Electronics,Women,Gucci Scarf,740,Moon-Henderson,975,14-06-2022,3.5
+PROD000162,Books,Headphones,Bose QC35 II,476,Smith PLC,243,01-09-2024,1.1
+PROD000163,Toys,Laundry,Whirlpool Iron,917,"Wallace, Mccullough and Shields",275,17-10-2021,2.9
+PROD000164,Clothing,Laptops,HP Spectre x360,462,"Sims, Chapman and Snyder",867,29-05-2021,4.5
+PROD000165,Electronics,Dolls,American Girl Doll,829,Durham-Griffin,323,08-01-2024,3.9
+PROD000166,Electronics,Laundry,Whirlpool Iron,905,Boyd and Sons,508,24-01-2020,4.5
+PROD000167,Books,Laundry,LG Washing Machine,552,"Holt, Gates and Juarez",886,12-07-2021,3.7
+PROD000168,Home Appliances,Education,Introduction to Programming,257,"Scott, Cuevas and Horton",227,11-06-2023,1.2
+PROD000169,Home Appliances,Education,Algebra Textbook,917,"Pena, Moore and Perez",220,04-06-2024,4.9
+PROD000170,Books,Men,Nike T-Shirt,280,Smith-Mckay,108,04-08-2020,4.7
+PROD000171,Home Appliances,Kids,Old Navy Pants,292,Newman-Scott,630,29-04-2020,1.5
+PROD000172,Home Appliances,Cameras,Panasonic Lumix GH5,299,Barrett-Cain,397,07-03-2021,1.5
+PROD000173,Clothing,Kitchen,Le Creuset Dutch Oven,923,Rice Ltd,354,28-04-2022,3.2
+PROD000174,Clothing,Cameras,Panasonic Lumix GH5,945,Munoz-Vega,262,19-06-2022,4
+PROD000175,Electronics,Headphones,Bose QC35 II,965,"Grant, Rogers and Dawson",913,03-08-2022,2.5
+PROD000176,Home Appliances,Men,Under Armour Jacket,169,Cannon LLC,533,09-10-2024,1.5
+PROD000177,Clothing,Dolls,American Girl Doll,846,Paul Inc,127,06-03-2024,3
+PROD000178,Electronics,Laptops,Asus ZenBook 14,171,Evans LLC,609,21-06-2022,2.4
+PROD000179,Home Appliances,Laundry,Bosch Laundry Basket,813,Russo-Odonnell,865,24-12-2021,2.4
+PROD000180,Toys,Cameras,Canon EOS R5,592,Cole Ltd,218,23-03-2021,3.6
+PROD000181,Toys,Headphones,Apple AirPods Max,667,Davis-Murphy,418,28-12-2023,4.5
+PROD000182,Home Appliances,Kids,Nike Sneakers,31,Roach Ltd,490,22-02-2024,3.2
+PROD000183,Home Appliances,Laptops,Dell XPS 13,33,Chandler Ltd,932,05-06-2023,3.8
+PROD000184,Electronics,Education,Biology Basics,530,"Davies, Butler and Mitchell",651,09-12-2024,3.6
+PROD000185,Electronics,Education,Physics for Engineers,561,Clayton Group,338,25-07-2024,3.2
+PROD000186,Clothing,Education,Chemistry Essentials,970,Butler-Williams,192,13-11-2023,2.2
+PROD000187,Electronics,Smartphones,Google Pixel 7,886,"Johnson, Carey and Scott",963,02-01-2022,2.5
+PROD000188,Toys,Women,Chanel Handbag,464,Hickman Inc,426,29-03-2022,2.3
+PROD000189,Electronics,Cameras,Sony A7 IV,337,"Quinn, Stewart and Rodriguez",92,06-04-2022,4.7
+PROD000190,Home Appliances,Kids,Gap Kids Sweater,818,"Blankenship, Dunn and Henry",263,11-11-2024,4.3
+PROD000191,Electronics,Laptops,Dell XPS 13,751,Andersen-Brewer,954,05-03-2024,3.3
+PROD000192,Electronics,Action Figures,Star Wars Yoda,257,Turner Group,14,12-11-2024,4.6
+PROD000193,Books,Fiction,The Great Gatsby,558,Moore-Carey,312,21-02-2020,4.5
+PROD000194,Books,Laundry,Bosch Laundry Basket,788,Carr Ltd,989,21-11-2021,4.7
+PROD000195,Toys,Cleaning,Black+Decker Dustbuster,828,Thompson Inc,545,29-10-2023,1.9
+PROD000196,Home Appliances,Men,Adidas Hoodie,673,Christensen-Johnston,642,17-10-2020,3.9
+PROD000197,Clothing,Board Games,Chess Set,781,"Bailey, Barry and Wells",616,04-07-2021,3.4
+PROD000198,Toys,Laundry,LG Washing Machine,93,West LLC,437,25-02-2023,3.9
+PROD000199,Home Appliances,Board Games,Catan,453,Berry PLC,973,11-12-2022,2.1
+PROD000200,Books,Laundry,LG Washing Machine,317,Benitez PLC,745,25-06-2022,3.8
+PROD000201,Books,Laundry,Panasonic Steamer,730,Leon and Sons,760,25-03-2021,2.6
+PROD000202,Clothing,Fiction,Pride and Prejudice,315,"Martin, Price and Riddle",236,09-06-2022,4.3
+PROD000203,Clothing,Cleaning,iRobot Roomba,33,Brown-Brown,663,16-03-2021,4.2
+PROD000204,Books,Fiction,The Great Gatsby,631,Wilson Group,941,22-05-2020,1.8
+PROD000205,Toys,Laptops,HP Spectre x360,622,"Paul, Herrera and Murray",572,27-05-2020,1.7
+PROD000206,Home Appliances,Laundry,Panasonic Steamer,414,"Hoover, Rhodes and Hughes",399,02-05-2022,3.9
+PROD000207,Home Appliances,Dolls,LOL Surprise Doll,210,"Brown, Thomas and Gentry",666,17-11-2024,3.2
+PROD000208,Books,Headphones,Beats Studio3,893,Williams-Figueroa,859,17-03-2022,3.2
+PROD000209,Books,Education,Chemistry Essentials,836,Morrison-Hahn,849,29-05-2021,4
+PROD000210,Electronics,Fiction,To Kill a Mockingbird,440,Hunt-Fisher,828,02-12-2020,4.4
+PROD000211,Home Appliances,Men,Adidas Hoodie,125,Miller-Pena,573,19-08-2021,2
+PROD000212,Books,Women,Uniqlo Skirt,413,Miller-Moreno,21,06-09-2023,3.2
+PROD000213,Home Appliances,Education,Chemistry Essentials,457,Larsen Group,346,20-11-2020,4.3
+PROD000214,Books,Laptops,Dell XPS 13,26,Silva Group,616,17-03-2020,4.5
+PROD000215,Clothing,Kids,Carter's Jacket,100,Santos-Dixon,892,03-08-2020,2.1
+PROD000216,Books,Headphones,Sennheiser HD 450BT,784,Adams-Yoder,138,26-09-2020,1.4
+PROD000217,Electronics,Dolls,Barbie Doll,671,Palmer-Ochoa,20,07-12-2023,1.9
+PROD000218,Electronics,Fiction,The Catcher in the Rye,504,Jones-Pearson,499,06-02-2023,4.8
+PROD000219,Electronics,Kitchen,KitchenAid Mixer,376,"Roberts, Benton and Peters",281,18-12-2022,2.8
+PROD000220,Electronics,Fiction,Pride and Prejudice,330,Blair-Aguirre,366,04-03-2024,2.7
+PROD000221,Clothing,Men,Puma Shorts,951,"Green, Hamilton and Clark",890,24-06-2021,1.1
+PROD000222,Toys,Headphones,Bose QC35 II,525,Black and Sons,101,04-02-2021,1.2
+PROD000223,Electronics,Board Games,Scrabble,538,Hunter-Brooks,18,13-09-2021,3.7
+PROD000224,Clothing,Dolls,Disney Princess Doll,683,"Green, Wilkerson and Miller",896,02-12-2022,3.4
+PROD000225,Electronics,Dolls,American Girl Doll,821,"Garza, Winters and Rhodes",132,24-11-2023,3.3
+PROD000226,Electronics,Laundry,LG Washing Machine,657,"Cross, Rose and Barker",785,15-08-2020,1.4
+PROD000227,Home Appliances,Laptops,Asus ZenBook 14,468,Rogers PLC,290,03-07-2021,2.4
+PROD000228,Clothing,Kitchen,Le Creuset Dutch Oven,304,Perkins-Glover,467,28-11-2022,4.2
+PROD000229,Toys,Cleaning,Black+Decker Dustbuster,301,Mitchell-Long,945,07-12-2024,1.7
+PROD000230,Electronics,Fiction,1984,93,Pugh and Sons,460,15-01-2023,4.5
+PROD000231,Toys,Smartphones,Samsung Galaxy S22,980,West Inc,640,17-10-2023,1.5
+PROD000232,Toys,Action Figures,Marvel Iron Man,64,"Moore, Hoffman and Wright",416,12-09-2021,1.7
+PROD000233,Clothing,Women,Zara Top,548,Richardson Group,711,16-11-2021,2.9
+PROD000234,Books,Action Figures,Star Wars Yoda,764,"Montes, Scott and Scott",800,21-12-2021,4.8
+PROD000235,Books,Dolls,LOL Surprise Doll,695,Cooper PLC,821,27-06-2024,2.3
+PROD000236,Electronics,Cameras,Panasonic Lumix GH5,476,Myers PLC,65,18-02-2023,3.6
+PROD000237,Toys,Education,Algebra Textbook,594,Hale and Sons,717,12-11-2020,3.4
+PROD000238,Clothing,Laundry,Whirlpool Iron,426,Hall LLC,388,08-05-2021,1.6
+PROD000239,Toys,Education,Chemistry Essentials,112,"Carrillo, Barton and Jackson",511,03-07-2023,2
+PROD000240,Electronics,Men,Nike T-Shirt,341,Hatfield and Sons,32,20-09-2020,4.7
+PROD000241,Toys,Education,Algebra Textbook,485,"Lopez, Ward and Taylor",786,03-09-2024,1.7
+PROD000242,Toys,Women,Zara Top,623,Jacobson-Smith,254,14-12-2023,3.8
+PROD000243,Toys,Headphones,Bose QC35 II,904,Harding Ltd,781,27-08-2024,4.9
+PROD000244,Books,Women,H&M Dress,573,"Daniel, Roberts and Adams",427,25-03-2021,1.5
+PROD000245,Electronics,Laundry,Samsung Dryer,772,Taylor Group,240,21-04-2023,2.6
+PROD000246,Electronics,Fiction,Pride and Prejudice,346,"Barrett, Bennett and Nguyen",219,21-10-2021,1.9
+PROD000247,Home Appliances,Men,Under Armour Jacket,786,"Lamb, Ryan and Tucker",171,08-01-2021,1.9
+PROD000248,Toys,Smartphones,OnePlus 10 Pro,862,King-Ramos,386,27-01-2021,1.5
+PROD000249,Toys,Smartphones,Samsung Galaxy S22,602,"Taylor, Torres and Gonzales",875,17-09-2020,3.6
+PROD000250,Books,Kids,Nike Sneakers,830,"Hernandez, Miller and Delacruz",179,09-02-2023,4
+PROD000251,Home Appliances,Dolls,American Girl Doll,747,Sanders Inc,908,18-08-2024,3.7
+PROD000252,Toys,Smartphones,Google Pixel 7,842,"Williams, Lynch and Soto",348,14-05-2024,4.7
+PROD000253,Electronics,Fiction,To Kill a Mockingbird,587,Gibson Group,811,02-12-2021,1.6
+PROD000254,Toys,Men,Puma Shorts,610,"Phillips, Ramirez and Harris",483,27-02-2021,2.3
+PROD000255,Home Appliances,Action Figures,Marvel Iron Man,434,Yang-Lopez,236,24-10-2024,2.4
+PROD000256,Electronics,Laundry,Panasonic Steamer,518,"Baxter, Gates and French",882,27-08-2022,1.9
+PROD000257,Home Appliances,Headphones,Bose QC35 II,870,"Hanna, Kent and Owen",372,21-06-2020,1.6
+PROD000258,Home Appliances,Kids,Gap Kids Sweater,459,Carr-Martin,488,04-05-2024,2.9
+PROD000259,Toys,Dolls,Disney Princess Doll,652,Compton-Weaver,564,02-08-2021,4.3
+PROD000260,Clothing,Cameras,Nikon Z7 II,733,Cunningham Group,484,19-08-2020,4.8
+PROD000261,Home Appliances,Cleaning,Dyson Vacuum,451,Brennan LLC,204,27-04-2023,1.5
+PROD000262,Toys,Fiction,The Catcher in the Rye,967,"Lopez, Miller and Lane",942,06-09-2022,4.3
+PROD000263,Books,Cleaning,Dyson Vacuum,347,"Vasquez, Lewis and Dixon",21,07-04-2023,4.3
+PROD000264,Toys,Women,Chanel Handbag,276,Jones-Parker,504,08-03-2024,2.6
+PROD000265,Books,Cleaning,Swiffer Mop,661,Moore Group,992,11-06-2021,1.4
+PROD000266,Toys,Education,Algebra Textbook,880,Levy Group,986,14-05-2021,5
+PROD000267,Books,Laptops,Asus ZenBook 14,573,"Johns, Odonnell and Smith",793,22-01-2020,3.6
+PROD000268,Electronics,Non-Fiction,Sapiens,93,"Gonzalez, Ray and Snyder",71,01-01-2023,4.9
+PROD000269,Electronics,Non-Fiction,Becoming,253,Newman-Estrada,538,22-02-2022,2.9
+PROD000270,Toys,Education,Algebra Textbook,540,"Conley, Garcia and Buck",280,24-10-2022,2.6
+PROD000271,Electronics,Women,Zara Top,901,Mccoy Inc,547,11-04-2021,2
+PROD000272,Home Appliances,Board Games,Monopoly,562,"Garcia, Solis and Simmons",566,25-02-2023,4.9
+PROD000273,Books,Cleaning,Swiffer Mop,627,"Meza, Simon and Williams",907,28-06-2020,2
+PROD000274,Toys,Laptops,Lenovo ThinkPad X1,277,Ramirez Inc,666,20-12-2020,1.1
+PROD000275,Books,Action Figures,Batman Action Figure,811,"Roberts, Thomas and Freeman",74,06-09-2022,3
+PROD000276,Toys,Cameras,Sony A7 IV,248,Fisher-Bartlett,871,05-10-2023,2.5
+PROD000277,Books,Women,H&M Dress,264,Williams-Lewis,489,09-04-2023,2
+PROD000278,Clothing,Dolls,LOL Surprise Doll,446,Murphy and Sons,807,06-10-2022,3.5
+PROD000279,Home Appliances,Headphones,Sony WH-1000XM4,729,"Wells, Wheeler and Campos",499,09-02-2024,2.5
+PROD000280,Electronics,Kitchen,KitchenAid Mixer,475,"Arnold, Roberts and Caldwell",77,06-12-2021,2.6
+PROD000281,Toys,Cameras,Sony A7 IV,763,Gilbert PLC,371,09-01-2021,1.1
+PROD000282,Toys,Fiction,1984,492,Clark-Martin,821,10-12-2019,3.4
+PROD000283,Books,Dolls,American Girl Doll,830,Collins and Sons,617,23-02-2022,1.5
+PROD000284,Clothing,Laptops,MacBook Pro,582,Smith-Cooper,581,05-03-2021,1.9
+PROD000285,Clothing,Laundry,Whirlpool Iron,748,Mason and Sons,778,24-06-2022,3.9
+PROD000286,Electronics,Cleaning,Shark Steam Cleaner,193,Bender-Wallace,28,04-11-2021,2.3
+PROD000287,Clothing,Education,Biology Basics,94,Rivers Inc,554,10-02-2023,1.7
+PROD000288,Books,Laptops,Asus ZenBook 14,118,Torres Group,988,29-08-2024,3.3
+PROD000289,Books,Kitchen,OXO Knife Set,532,Williams-Chen,941,13-01-2021,1.9
+PROD000290,Toys,Non-Fiction,Sapiens,143,Richards-Lawrence,100,02-04-2020,2.1
+PROD000291,Books,Men,Nike T-Shirt,136,Lawrence-Roberts,982,17-07-2023,3.5
+PROD000292,Home Appliances,Smartphones,Google Pixel 7,362,Ali-Patterson,996,02-12-2022,4
+PROD000293,Electronics,Women,Gucci Scarf,726,Robbins LLC,247,22-02-2023,4
+PROD000294,Toys,Cleaning,Shark Steam Cleaner,252,Guzman Inc,471,01-02-2022,2.9
+PROD000295,Clothing,Laptops,Lenovo ThinkPad X1,148,Morgan-Parks,33,20-09-2020,2.8
+PROD000296,Books,Laptops,Asus ZenBook 14,393,Wilson-Gonzalez,236,04-11-2021,4.2
+PROD000297,Books,Fiction,The Great Gatsby,594,Lamb-Sullivan,860,10-01-2020,1.8
+PROD000298,Clothing,Cameras,Nikon Z7 II,255,Barton-Davis,390,13-12-2023,1.6
+PROD000299,Clothing,Education,Physics for Engineers,863,"Schmitt, Jenkins and Meyer",930,17-08-2023,3.7
+PROD000300,Electronics,Kids,Nike Sneakers,761,Castro-Alvarado,916,23-04-2023,2.6
+PROD000301,Electronics,Cameras,Canon EOS R5,209,Thomas-Williams,786,06-09-2021,3.8
+PROD000302,Home Appliances,Cameras,Panasonic Lumix GH5,720,Orr Inc,15,11-10-2020,2
+PROD000303,Toys,Headphones,Beats Studio3,187,Bolton Ltd,579,06-03-2023,2.3
+PROD000304,Books,Laundry,Bosch Laundry Basket,626,Williams Ltd,621,08-11-2021,4.6
+PROD000305,Toys,Laptops,Asus ZenBook 14,688,Steele Inc,643,29-07-2022,2.7
+PROD000306,Electronics,Cleaning,Dyson Vacuum,310,"Stokes, Dennis and Wood",366,17-12-2019,3.4
+PROD000307,Toys,Action Figures,Marvel Iron Man,879,Paul Inc,166,07-11-2024,1.4
+PROD000308,Clothing,Kitchen,Cuisinart Blender,360,Lawrence-Vasquez,210,07-11-2024,1.7
+PROD000309,Clothing,Kitchen,OXO Knife Set,414,Contreras LLC,234,08-09-2020,1.1
+PROD000310,Books,Smartphones,Google Pixel 7,493,Cain Ltd,992,15-11-2020,2.7
+PROD000311,Toys,Laundry,Whirlpool Iron,158,Pope Ltd,472,29-03-2023,5
+PROD000312,Electronics,Education,Chemistry Essentials,210,"Huffman, Fisher and Clark",788,11-07-2023,4.5
+PROD000313,Books,Dolls,Disney Princess Doll,984,Salazar Group,672,31-08-2024,3.5
+PROD000314,Books,Laundry,Samsung Dryer,587,Villa LLC,931,03-05-2022,4.4
+PROD000315,Clothing,Smartphones,OnePlus 10 Pro,538,Long-Mills,266,18-06-2023,3.4
+PROD000316,Electronics,Education,Chemistry Essentials,70,Robinson and Sons,999,13-12-2019,2.5
+PROD000317,Clothing,Kids,Old Navy Pants,570,Fisher and Sons,602,20-06-2022,1.7
+PROD000318,Electronics,Cleaning,iRobot Roomba,317,Mack Inc,440,13-11-2022,3.6
+PROD000319,Toys,Men,Puma Shorts,91,Johnson LLC,887,19-04-2024,1.8
+PROD000320,Clothing,Women,Uniqlo Skirt,275,"Stevens, Campbell and Hawkins",434,02-08-2022,2.7
+PROD000321,Clothing,Women,Gucci Scarf,328,Perry and Sons,416,16-07-2024,4.3
+PROD000322,Books,Non-Fiction,Born a Crime,110,Harrington-Guzman,621,27-10-2022,1.5
+PROD000323,Toys,Laptops,Dell XPS 13,168,Duncan-Rich,114,03-08-2023,1.5
+PROD000324,Toys,Kids,Nike Sneakers,49,Vasquez-Sanders,261,22-08-2024,1.9
+PROD000325,Toys,Fiction,Pride and Prejudice,481,"Thompson, Townsend and Harris",654,12-10-2020,3.2
+PROD000326,Toys,Men,Levi's Jeans,654,Watkins-Avila,108,30-12-2019,2
+PROD000327,Home Appliances,Men,Under Armour Jacket,404,"Mendoza, Byrd and King",187,30-11-2020,3
+PROD000328,Home Appliances,Education,Biology Basics,768,James Group,274,19-05-2021,2.2
+PROD000329,Clothing,Kitchen,Cuisinart Blender,811,"Jimenez, Oliver and Pham",141,19-02-2023,3
+PROD000330,Toys,Action Figures,Star Wars Yoda,656,"Ryan, Bowman and Lee",208,20-03-2024,2.1
+PROD000331,Clothing,Laptops,Lenovo ThinkPad X1,665,"Howard, Jones and Leonard",714,29-08-2022,4.9
+PROD000332,Electronics,Education,Physics for Engineers,537,Norris-Bennett,729,23-07-2022,3
+PROD000333,Toys,Laptops,Lenovo ThinkPad X1,914,"Kelly, Bailey and Jones",66,07-07-2023,4
+PROD000334,Clothing,Cleaning,Swiffer Mop,392,Hall LLC,901,09-02-2021,3.8
+PROD000335,Electronics,Board Games,Chess Set,216,Gay-Lopez,418,09-12-2024,3
+PROD000336,Home Appliances,Cleaning,Swiffer Mop,209,Dominguez Ltd,963,05-07-2024,2
+PROD000337,Toys,Board Games,Catan,822,Young-Chase,271,13-12-2022,3
+PROD000338,Electronics,Women,Uniqlo Skirt,915,Gibson and Sons,751,13-05-2022,3.7
+PROD000339,Home Appliances,Laptops,Dell XPS 13,767,"Cole, Castillo and Morgan",663,22-03-2024,2.8
+PROD000340,Books,Dolls,American Girl Doll,98,Stone-Blair,584,01-11-2021,1.3
+PROD000341,Home Appliances,Kids,Nike Sneakers,566,Butler-Peterson,127,21-02-2023,1.1
+PROD000342,Toys,Action Figures,Spider-Man Figure,835,"Henry, Day and Johnson",494,03-11-2022,2.3
+PROD000343,Electronics,Education,Biology Basics,901,"Hoffman, Tucker and Robinson",980,04-08-2023,1.6
+PROD000344,Clothing,Fiction,Pride and Prejudice,892,"Young, Moody and Franklin",330,20-05-2024,4.6
+PROD000345,Clothing,Laptops,Asus ZenBook 14,91,Reed-Bowman,317,08-02-2021,1.7
+PROD000346,Electronics,Smartphones,Google Pixel 7,62,Todd and Sons,499,11-02-2020,2.6
+PROD000347,Clothing,Cameras,Canon EOS R5,822,Johnson Group,330,10-09-2022,3.8
+PROD000348,Electronics,Cameras,Nikon Z7 II,152,Chen-Davis,766,26-12-2022,4.3
+PROD000349,Home Appliances,Men,Under Armour Jacket,818,Young-Smith,902,13-03-2023,2.9
+PROD000350,Books,Action Figures,Spider-Man Figure,125,Fleming-Ramirez,365,10-10-2023,1.7
+PROD000351,Toys,Non-Fiction,Educated,690,Walsh Inc,657,23-07-2023,2.1
+PROD000352,Home Appliances,Men,Levi's Jeans,376,Carson PLC,617,16-12-2023,2.7
+PROD000353,Home Appliances,Women,H&M Dress,27,Brown and Sons,746,08-11-2023,2.5
+PROD000354,Home Appliances,Education,Physics for Engineers,793,Weber and Sons,529,17-08-2020,2.4
+PROD000355,Books,Headphones,Bose QC35 II,362,Vazquez-Mendoza,535,03-05-2020,1.5
+PROD000356,Books,Cleaning,Swiffer Mop,456,Mcdowell-Williams,33,27-02-2022,4.7
+PROD000357,Books,Headphones,Beats Studio3,99,Stewart-Wang,201,05-03-2023,1.1
+PROD000358,Clothing,Laptops,Asus ZenBook 14,575,"Henry, Rodriguez and Hall",762,05-09-2022,2.8
+PROD000359,Electronics,Non-Fiction,Sapiens,708,Perry Group,358,25-09-2021,4.9
+PROD000360,Electronics,Kitchen,KitchenAid Mixer,411,Brown Inc,34,03-01-2023,3.6
+PROD000361,Clothing,Board Games,Ticket to Ride,595,"Lawrence, Garcia and Kennedy",399,23-06-2020,2.4
+PROD000362,Toys,Laptops,Asus ZenBook 14,919,Cochran-Burke,650,12-03-2023,1.6
+PROD000363,Toys,Cameras,Panasonic Lumix GH5,307,Foster PLC,608,22-09-2023,4.9
+PROD000364,Toys,Laundry,LG Washing Machine,840,"Nunez, Turner and Garcia",754,30-08-2023,1.1
+PROD000365,Toys,Women,Gucci Scarf,132,Diaz PLC,810,11-05-2023,3.7
+PROD000366,Toys,Cleaning,iRobot Roomba,982,Cobb-Eaton,919,31-07-2020,4.5
+PROD000367,Electronics,Non-Fiction,Becoming,850,Jones-Warner,968,22-07-2020,1.1
+PROD000368,Toys,Action Figures,Spider-Man Figure,901,Reed-Brown,577,24-08-2024,3.9
+PROD000369,Electronics,Men,Puma Shorts,739,Reyes-Maddox,199,26-04-2023,5
+PROD000370,Books,Laundry,LG Washing Machine,975,Rich-Martin,37,08-09-2024,3.6
+PROD000371,Toys,Kitchen,Instant Pot,245,"Mathews, Johnson and Hill",550,08-10-2020,2.7
+PROD000372,Home Appliances,Men,Puma Shorts,352,"Barrett, Martinez and Jackson",500,19-06-2021,4.5
+PROD000373,Home Appliances,Men,Puma Shorts,436,"Herrera, Rose and Ball",497,18-06-2022,3.2
+PROD000374,Toys,Women,Chanel Handbag,297,"Powell, Vargas and Jordan",800,12-06-2020,4
+PROD000375,Toys,Women,Uniqlo Skirt,914,"Sanders, Hernandez and Campbell",181,30-03-2022,3.4
+PROD000376,Toys,Men,Under Armour Jacket,818,"Pollard, Jimenez and Wang",47,25-08-2022,1.2
+PROD000377,Home Appliances,Headphones,Sony WH-1000XM4,811,Gardner-Garrett,954,08-05-2022,1.9
+PROD000378,Toys,Fiction,The Catcher in the Rye,22,"Cummings, Torres and Brown",308,16-07-2022,1.3
+PROD000379,Clothing,Action Figures,Marvel Iron Man,564,"Green, Jones and Hartman",275,13-08-2023,1.4
+PROD000380,Electronics,Laundry,Samsung Dryer,497,"Weber, Evans and Gutierrez",36,08-11-2024,1.1
+PROD000381,Books,Education,Algebra Textbook,429,Brown-Anderson,657,25-02-2022,2.7
+PROD000382,Clothing,Education,Chemistry Essentials,326,Massey Inc,757,04-12-2023,1.7
+PROD000383,Home Appliances,Kitchen,Cuisinart Blender,233,Perez Group,766,23-10-2021,4.4
+PROD000384,Books,Fiction,To Kill a Mockingbird,49,Williams Group,461,25-12-2022,4
+PROD000385,Home Appliances,Non-Fiction,Educated,438,Hunt and Sons,478,04-01-2024,3.3
+PROD000386,Electronics,Kids,Old Navy Pants,556,Scott-Smith,94,23-10-2023,3
+PROD000387,Home Appliances,Education,Algebra Textbook,47,"Davenport, Anderson and Frederick",935,25-11-2024,2
+PROD000388,Clothing,Cameras,Panasonic Lumix GH5,628,Deleon Group,22,31-03-2022,2.9
+PROD000389,Electronics,Headphones,Apple AirPods Max,106,"Matthews, Henry and Cohen",579,14-08-2023,3.6
+PROD000390,Electronics,Laptops,Asus ZenBook 14,45,"Wolfe, Hernandez and Jennings",268,04-06-2023,4.1
+PROD000391,Toys,Kids,Nike Sneakers,139,Keith LLC,989,17-04-2021,1.3
+PROD000392,Home Appliances,Men,Puma Shorts,732,"Murillo, Gray and Sharp",109,15-01-2022,3.8
+PROD000393,Clothing,Board Games,Scrabble,411,"Miles, King and Stewart",625,18-07-2023,4
+PROD000394,Clothing,Women,Uniqlo Skirt,376,"Lee, Trevino and Tyler",270,24-07-2023,3.2
+PROD000395,Books,Laundry,Panasonic Steamer,372,Morrow Inc,287,26-07-2024,1.9
+PROD000396,Home Appliances,Laundry,Panasonic Steamer,34,"Nguyen, Walker and Bolton",963,17-04-2021,3.2
+PROD000397,Books,Dolls,American Girl Doll,324,West-Robinson,75,01-05-2021,3
+PROD000398,Home Appliances,Laundry,Bosch Laundry Basket,273,Barton Inc,610,27-09-2023,2.9
+PROD000399,Clothing,Education,Chemistry Essentials,642,"Dean, Newton and Crawford",817,28-05-2022,2.8
+PROD000400,Home Appliances,Action Figures,Star Wars Yoda,539,"Burgess, Cummings and Terry",609,26-12-2019,1.4
+PROD000401,Books,Cameras,Nikon Z7 II,970,"Hernandez, Jacobs and Ware",387,10-09-2022,1.7
+PROD000402,Home Appliances,Headphones,Apple AirPods Max,872,Buckley Inc,526,21-08-2024,1.4
+PROD000403,Toys,Men,Puma Shorts,659,Myers Group,665,22-12-2019,2
+PROD000404,Clothing,Cameras,Fujifilm X-T4,205,Morgan-Wilson,126,22-07-2020,2.1
+PROD000405,Clothing,Men,Puma Shorts,406,Taylor Inc,792,17-04-2020,2
+PROD000406,Books,Non-Fiction,Educated,924,Bowers Group,508,27-04-2020,1.8
+PROD000407,Electronics,Laundry,Bosch Laundry Basket,519,"Wade, Gould and Nelson",214,12-02-2021,3.9
+PROD000408,Books,Laptops,Dell XPS 13,33,Black-Alexander,596,30-04-2021,4.3
+PROD000409,Home Appliances,Laundry,Bosch Laundry Basket,249,Mcpherson-Williams,89,06-02-2023,2.3
+PROD000410,Toys,Smartphones,iPhone 14,110,Klein Group,27,30-12-2023,2.2
+PROD000411,Toys,Board Games,Monopoly,423,Jones Ltd,738,26-04-2024,4.4
+PROD000412,Toys,Laptops,Dell XPS 13,524,Villarreal Inc,952,27-11-2023,3.5
+PROD000413,Electronics,Laundry,Bosch Laundry Basket,23,"Ramos, Walker and Zuniga",623,25-04-2023,2.2
+PROD000414,Toys,Kitchen,Le Creuset Dutch Oven,683,Robertson and Sons,653,22-08-2022,3.9
+PROD000415,Home Appliances,Board Games,Ticket to Ride,238,Jacobs-Alvarez,830,12-09-2022,2.4
+PROD000416,Clothing,Laptops,Asus ZenBook 14,607,"Moreno, Bonilla and Perez",67,23-12-2021,3.3
+PROD000417,Electronics,Cleaning,Shark Steam Cleaner,815,"Kramer, Horne and Harris",121,19-10-2021,5
+PROD000418,Clothing,Smartphones,Samsung Galaxy S22,886,Harris-Harvey,606,01-11-2021,2.2
+PROD000419,Books,Laundry,Bosch Laundry Basket,235,"West, Martin and Stewart",852,03-07-2024,4.7
+PROD000420,Home Appliances,Board Games,Chess Set,178,Petty Inc,835,22-05-2021,2.3
+PROD000421,Books,Non-Fiction,Born a Crime,782,Nicholson-Wallace,637,05-03-2021,3.2
+PROD000422,Home Appliances,Laptops,Asus ZenBook 14,598,Gordon-Byrd,324,25-09-2020,2.8
+PROD000423,Electronics,Smartphones,OnePlus 10 Pro,753,"Barnett, Osborne and Parker",171,21-10-2024,4.1
+PROD000424,Electronics,Non-Fiction,Born a Crime,723,Esparza Ltd,807,30-05-2021,1.2
+PROD000425,Books,Smartphones,OnePlus 10 Pro,750,Cisneros PLC,959,19-01-2022,3.5
+PROD000426,Books,Laundry,Whirlpool Iron,392,"Perkins, Sherman and Andrews",333,28-06-2022,4
+PROD000427,Electronics,Dolls,Baby Alive,36,"Gonzales, Knight and Schroeder",727,08-10-2022,2.9
+PROD000428,Home Appliances,Board Games,Monopoly,921,Ross Inc,340,17-07-2020,1.4
+PROD000429,Books,Action Figures,Batman Action Figure,514,"Harris, Mason and Rivera",589,19-08-2023,2
+PROD000430,Electronics,Kitchen,KitchenAid Mixer,638,"Cobb, Bradshaw and Cox",931,19-08-2023,3.7
+PROD000431,Electronics,Kitchen,Le Creuset Dutch Oven,485,Brown-Walker,908,24-01-2023,4.6
+PROD000432,Books,Laundry,Panasonic Steamer,463,Martinez PLC,769,30-01-2024,2.7
+PROD000433,Books,Education,Introduction to Programming,758,Heath PLC,511,19-09-2022,3.2
+PROD000434,Home Appliances,Dolls,American Girl Doll,100,Thompson Group,66,07-02-2022,1.9
+PROD000435,Toys,Education,Physics for Engineers,798,Owens-Smith,174,16-02-2022,2.6
+PROD000436,Electronics,Laptops,HP Spectre x360,185,Austin-Graves,175,05-05-2020,2.3
+PROD000437,Clothing,Fiction,The Great Gatsby,376,Ross Inc,306,11-12-2022,3.6
+PROD000438,Clothing,Headphones,Beats Studio3,253,Cruz LLC,13,20-09-2023,4.9
+PROD000439,Home Appliances,Women,H&M Dress,181,"Sparks, Moore and Wells",419,27-07-2021,4.3
+PROD000440,Electronics,Education,Biology Basics,194,James Group,816,16-04-2022,1.8
+PROD000441,Clothing,Dolls,Barbie Doll,691,"Pacheco, Lopez and Kennedy",886,02-11-2021,3.3
+PROD000442,Clothing,Cameras,Canon EOS R5,382,"Maldonado, Williams and Williams",115,22-11-2021,1.3
+PROD000443,Electronics,Kitchen,Instant Pot,395,Scott PLC,629,15-09-2020,2
+PROD000444,Home Appliances,Non-Fiction,Becoming,716,"Quinn, Coleman and Sherman",691,08-06-2024,1.7
+PROD000445,Books,Board Games,Scrabble,193,Ferrell Inc,788,08-10-2021,2.3
+PROD000446,Clothing,Cameras,Fujifilm X-T4,257,Welch-Johnson,788,09-10-2021,3.7
+PROD000447,Clothing,Non-Fiction,Born a Crime,182,Ramsey-Ruiz,575,02-04-2021,3
+PROD000448,Books,Cleaning,iRobot Roomba,937,"Vazquez, Kim and Baker",175,19-07-2021,4.7
+PROD000449,Toys,Cleaning,Black+Decker Dustbuster,931,"Owens, Joyce and Brown",263,09-02-2023,1.9
+PROD000450,Electronics,Cleaning,Black+Decker Dustbuster,257,Copeland and Sons,797,12-09-2023,2.5
+PROD000451,Books,Kids,Nike Sneakers,637,"Daniel, Smith and Berg",675,07-06-2024,2.3
+PROD000452,Clothing,Board Games,Ticket to Ride,649,Davis PLC,137,08-06-2023,1.9
+PROD000453,Electronics,Kitchen,Le Creuset Dutch Oven,251,Wiley Ltd,495,09-01-2021,5
+PROD000454,Home Appliances,Kids,Carter's Jacket,607,Kemp-Baird,85,26-10-2023,2.5
+PROD000455,Electronics,Women,H&M Dress,536,Reed Ltd,896,10-11-2022,4.8
+PROD000456,Clothing,Fiction,Pride and Prejudice,749,"Rowland, Rose and Schmitt",230,16-03-2020,2.6
+PROD000457,Home Appliances,Smartphones,Samsung Galaxy S22,813,Moore-Pineda,791,21-04-2020,1.8
+PROD000458,Clothing,Men,Nike T-Shirt,864,Scott-Reed,443,01-06-2020,1.5
+PROD000459,Electronics,Kitchen,KitchenAid Mixer,939,Ingram-Rodriguez,644,10-03-2021,4.4
+PROD000460,Toys,Smartphones,Samsung Galaxy S22,255,Wilson-Martinez,546,12-12-2019,1.1
+PROD000461,Toys,Cameras,Panasonic Lumix GH5,342,Cummings Inc,448,23-10-2024,4.9
+PROD000462,Electronics,Kids,Adidas Cap,563,Weber-Smith,444,08-01-2024,2.7
+PROD000463,Toys,Education,Algebra Textbook,426,Wagner-Long,627,13-03-2022,2
+PROD000464,Home Appliances,Laundry,Panasonic Steamer,196,Evans-Brown,627,05-12-2020,3.5
+PROD000465,Books,Women,Zara Top,519,"Frazier, Hodges and Gibbs",624,31-05-2023,1.5
+PROD000466,Electronics,Dolls,Barbie Doll,138,Wright-Gonzales,995,19-06-2020,1.3
+PROD000467,Books,Action Figures,Marvel Iron Man,209,Mahoney Inc,787,13-01-2024,4.3
+PROD000468,Toys,Kids,Adidas Cap,633,"Moore, Smith and Richard",535,16-09-2023,2.7
+PROD000469,Electronics,Non-Fiction,Sapiens,384,Nguyen-Baird,142,15-02-2021,3.1
+PROD000470,Clothing,Fiction,To Kill a Mockingbird,505,Gonzalez-Duncan,450,08-10-2020,1.7
+PROD000471,Clothing,Smartphones,Samsung Galaxy S22,992,Robertson-Burnett,543,28-03-2023,1.2
+PROD000472,Toys,Men,Adidas Hoodie,98,Morrison-Blackburn,596,19-09-2021,2.5
+PROD000473,Books,Action Figures,Marvel Iron Man,341,"Price, Powell and Burgess",806,25-02-2021,3
+PROD000474,Books,Kids,Adidas Cap,158,Parker-Walters,400,23-06-2022,4.1
+PROD000475,Clothing,Laundry,LG Washing Machine,355,"Moreno, Cooper and Hamilton",253,10-04-2020,3
+PROD000476,Home Appliances,Cleaning,Swiffer Mop,421,"Coffey, Brown and Schroeder",777,11-04-2021,4.1
+PROD000477,Books,Smartphones,OnePlus 10 Pro,245,Rowe-Johnson,155,07-11-2023,1.5
+PROD000478,Toys,Fiction,The Catcher in the Rye,285,"Kirby, Levy and Hebert",424,23-08-2022,1.3
+PROD000479,Home Appliances,Kitchen,Le Creuset Dutch Oven,352,Crosby-Johnson,436,24-09-2020,1.6
+PROD000480,Electronics,Dolls,American Girl Doll,243,"Cobb, Watson and Thomas",221,19-03-2021,4.1
+PROD000481,Toys,Fiction,1984,591,Pratt-Anderson,258,16-04-2024,4
+PROD000482,Home Appliances,Cameras,Panasonic Lumix GH5,795,"Lambert, Caldwell and George",44,25-07-2021,1.6
+PROD000483,Electronics,Non-Fiction,Sapiens,986,"Dawson, Morton and Patel",848,07-03-2021,1.1
+PROD000484,Home Appliances,Laptops,Asus ZenBook 14,579,Thompson-Stone,262,24-11-2024,3.7
+PROD000485,Clothing,Women,Gucci Scarf,612,Beasley PLC,871,03-02-2022,4.4
+PROD000486,Toys,Men,Under Armour Jacket,828,Parsons-Klein,781,15-09-2023,4
+PROD000487,Toys,Cleaning,Dyson Vacuum,910,Cox Inc,828,02-12-2022,1.8
+PROD000488,Books,Kitchen,OXO Knife Set,539,Rivera-Navarro,871,27-06-2024,3.3
+PROD000489,Electronics,Cleaning,Swiffer Mop,880,"Williamson, Cole and Blevins",295,26-03-2021,4
+PROD000490,Books,Board Games,Monopoly,268,"George, Key and Gardner",871,20-07-2023,2
+PROD000491,Books,Laundry,Whirlpool Iron,775,"Mullins, Wood and Ingram",702,20-04-2024,3.1
+PROD000492,Toys,Cleaning,iRobot Roomba,696,Wilson Ltd,219,23-05-2024,2.3
+PROD000493,Home Appliances,Cameras,Nikon Z7 II,878,Hardin LLC,119,06-07-2022,1.9
+PROD000494,Clothing,Action Figures,Marvel Iron Man,440,Roberts-Wright,339,24-04-2022,4.9
+PROD000495,Clothing,Fiction,Pride and Prejudice,851,Allison and Sons,151,26-05-2023,4.7
+PROD000496,Books,Women,Zara Top,206,"Henson, Braun and Johnson",685,19-11-2024,2.8
+PROD000497,Home Appliances,Fiction,The Catcher in the Rye,268,Wright Group,96,10-04-2023,1.5
+PROD000498,Home Appliances,Kids,Carter's Jacket,146,Williams-Fernandez,149,02-08-2020,3.9
+PROD000499,Toys,Women,Chanel Handbag,107,Blackwell and Sons,341,20-03-2021,2
+PROD000500,Toys,Men,Levi's Jeans,64,Marsh Inc,683,19-09-2020,1.7
